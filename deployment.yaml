@@ -18,8 +18,9 @@ spec:
         app: demo
     spec:
       containers:
-      - image: springguides/demo
+      - image: localhost:5000/testdemo
         name: demo
+        imagePullPolicy: Never
         resources: {}
 status: {}
 ---
