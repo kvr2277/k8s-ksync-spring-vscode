@@ -19,6 +19,9 @@
 *.tar.gz
 *.rar
 *.prefs
+.classpath
+.project
+.DS_Store
 
 target/
 
