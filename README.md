@@ -1,5 +1,5 @@
 # vink8s
-Playing Kubernetes
+ksync for Spring Boot apps on VSCode 
 
 
 # Steps
